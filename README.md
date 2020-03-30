@@ -16,9 +16,9 @@ Installation
 * Code is the `AirBnb_Seattle.ipynb` file.
 * Dataset is contained in the Data folder
 * Data folder contains three datasets
-    -`Listings`: Listing dataset of the host Listings in 2016 for AirBnb_Seattle
-    -`Reviews`: Reviews dataset of the customer Reviews in 2016 for AirBnb_Seattle
-    -`Calendar`: Calender dataset showing prices of listings thorugh the year for AirBnb_Seattle
+    * `Listings`: Listing dataset of the host Listings in 2016 for AirBnb_Seattle
+    * `Reviews`: Reviews dataset of the customer Reviews in 2016 for AirBnb_Seattle
+    * `Calendar`: Calender dataset showing prices of listings thorugh the year for AirBnb_Seattle
 * It is recommended you run the solution on jupyter notebook.
 
 

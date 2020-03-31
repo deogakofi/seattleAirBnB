@@ -7,6 +7,10 @@ Review the data from AirBnB for Seattle in 2016, predict the price of listings b
 * Is there correlation between number of available listings and number of reviews?
 * Which neighbourhoods cost more?
 
+Related Blog
+----------------------
+https://medium.com/@deogakofiofuafor/airbnb-seattle-for-better-understanding-21b1132ee69f
+
 Installation
 ----------------------
 
